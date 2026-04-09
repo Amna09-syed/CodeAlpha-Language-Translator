@@ -91,6 +91,11 @@ This project was developed as part of the **CodeAlpha Internship Program** to de
 * API integration
 * Multithreading
 * User-friendly design
+## 📸 Output Preview
+
+![Translator Output](images/output.png)
+![WhatsApp Image 2026-04-09 at 6 49 12 PM](https://github.com/user-attachments/assets/b584d362-85cf-4877-8536-8e789748ceaa)
+![WhatsApp Image 2026-04-09 at 6 49 52 PM](https://github.com/user-attachments/assets/f628475a-84ab-43a5-ac39-a72230cf077a)
 
 ---
 
